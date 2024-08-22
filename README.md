@@ -55,3 +55,8 @@ The main menu is your control center, offering these options:
 ## 🏁 Conclusion:
 The Seneca Library Application is your go-to solution for managing library tasks with ease. It’s user-friendly, robust, and designed with the future in mind. Whether you're adding new features or expanding publication types, this system provides a solid foundation that can grow with your library's needs.
 
+- **Email:** aditya.tambe.professional31@gmail.com
+- **LinkedIn:** [Aditya Tambe](https://www.linkedin.com/in/adityatambee/)
+
+Thanks for visiting my repository! Let's code and grow together! 🌟
+
